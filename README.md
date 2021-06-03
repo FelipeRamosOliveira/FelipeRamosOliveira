@@ -1,8 +1,8 @@
 ## Hi, I'm Felipe
  <div>
   <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=dracula&palette=green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=hackera&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=hacker"/>
 <div>
  
 <div style="display: inline_block"><br>
