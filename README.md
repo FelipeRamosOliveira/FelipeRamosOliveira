@@ -11,8 +11,8 @@ I am a Data Engineer at Stone Payments and a PhD candidate in Computer Systems a
 ### Stats
  <div>
   <a href="https://github.com/FelipeRamosOliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=monokai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=vue"/>
 <div>
   
  ### Code Languages
