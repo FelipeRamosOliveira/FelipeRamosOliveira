@@ -12,7 +12,7 @@ I'm a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at
  <div>
   <a href="https://github.com/FelipeRamosOliveira">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em"  width= "500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&langs_count=16&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&langs_count=16&theme=dracula"/>
 <div>
   
 
