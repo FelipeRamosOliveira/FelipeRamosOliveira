@@ -4,7 +4,7 @@
   <a href="https://instagram.com/fp.oliv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-# About Felipe
+# Hi, I'm Felipe :octocat:
 
 I am a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I am a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
 
