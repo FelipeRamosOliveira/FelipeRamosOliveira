@@ -8,7 +8,7 @@
 
 I am a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I am a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
 
-## GitHub Stats
+## Stats
  <div>
   <a href="https://github.com/FelipeRamosOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
