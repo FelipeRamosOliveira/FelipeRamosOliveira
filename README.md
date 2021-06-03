@@ -8,6 +8,14 @@
 
 I am a Data Engineer at Stone Payments and a PhD candidate in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the Decision Making research area. I am a huge machine learning enthusiast and have experience with AI, natural language processing, nature-inspired algorithms, and optimization.
  
+### Stats
+ <div>
+  <a href="https://github.com/FelipeRamosOliveira">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=react"/>
+<div>
+  
+
  ### Code Languages
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,12 +27,3 @@ I am a Data Engineer at Stone Payments and a PhD candidate in Computer Systems a
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-### Stats
- <div>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-  
-
