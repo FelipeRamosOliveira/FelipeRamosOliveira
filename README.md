@@ -1,4 +1,6 @@
 ## Hi, I'm Felipe
+PhD student in Computer Systems at PEC / COPPE / UFRJ (2020-2024), in the research field of Decision Making. Master in Structures and Materials at PEC / COPPE / UFRJ (2018-2020). Graduated in Civil Engineering at UFPA (2012-2017). He has experience in data engineering, computational methods inspired by nature, optimization and machine learning.
+
  <div>
   <a href="https://github.com/FelipeRamosOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
