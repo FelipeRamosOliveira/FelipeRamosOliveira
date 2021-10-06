@@ -1,8 +1,3 @@
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
-
 ## Hi, I'm Felipe ! :wave:
 
 *Machine learning engineer at [Kunumi](https://www.kunumi.com/)*
@@ -43,4 +38,4 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
  
 ## Connect with me
  
- <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" />
+ <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />
