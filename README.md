@@ -5,7 +5,7 @@ I'm a machine learning engineer, PhD student in computer systems (UFRJ), and res
 
  
 ## Stats
----
+...
 
  <div style="display: inline_block">
   <a href="https://github.com/FelipeRamosOliveira">
