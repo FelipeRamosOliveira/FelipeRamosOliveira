@@ -37,5 +37,4 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </div>
  
 ## Connect with me
- 
- [https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg](https://www.kunumi.com/)
+<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img src="https://opencollective.com/SuperTinyIcons/organization/0/avatar.svg"></a>
