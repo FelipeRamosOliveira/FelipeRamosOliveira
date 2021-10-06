@@ -10,7 +10,8 @@ I'm a machine learning engineer, PhD student in computer systems (UFRJ), and res
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
 <div>
   
-
+---
+ 
  ### Languages and Tools: 
   
   <div style="display: inline_block"><br>
