@@ -5,7 +5,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 <br>
 
-## Development Breakdown
+## Development Stats
 
  <div style="display: inline_block">
   <a href="https://github.com/FelipeRamosOliveira">
