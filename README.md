@@ -5,6 +5,7 @@ I'm a machine learning engineer, PhD student in computer systems (UFRJ), and res
 
 
 ### Development Breakdown
+---
 
  <div style="display: inline_block">
   <a href="https://github.com/FelipeRamosOliveira">
@@ -12,8 +13,10 @@ I'm a machine learning engineer, PhD student in computer systems (UFRJ), and res
      
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
 </div>
+ 
 
 ### Languages and Tools: 
+----
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
