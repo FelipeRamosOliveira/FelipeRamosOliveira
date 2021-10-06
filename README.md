@@ -40,3 +40,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
+ 
+## Connect with me
+ 
+ <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" />
