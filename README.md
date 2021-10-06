@@ -38,4 +38,4 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
  
 ## Connect with me
  
- <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />
+ [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="30" title="LinkedIn" />] (https://www.kunumi.com/)
