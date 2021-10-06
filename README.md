@@ -4,8 +4,7 @@
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
 
-### Development Breakdown
----
+## Development Breakdown
 
  <div style="display: inline_block">
   <a href="https://github.com/FelipeRamosOliveira">
@@ -15,8 +14,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </div>
  
 
-### Languages and Tools: 
-----
+## Languages and Tools: 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
