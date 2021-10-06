@@ -6,7 +6,6 @@
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
 *Connect with me*
-
 <br>
 
 <a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"></a>
