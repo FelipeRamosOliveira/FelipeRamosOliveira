@@ -1,6 +1,10 @@
 ## Hi, I'm Felipe ! :wave:
 
 *Machine learning engineer at [Kunumi](https://www.kunumi.com/)* <br>
+
+<br>
+I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
+
 *Connect with me*
 
 <div style="display: inline_block">
@@ -20,12 +24,7 @@
  <a href="https://www.instagram.com/fp.oliv/"> 
  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
 </a>
-
 </div>
-
-<br>
-I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
-
 
 ## Development Stats
 
