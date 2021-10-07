@@ -7,7 +7,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 *Languages and Tools*<br>
   
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Felipe-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
@@ -24,8 +24,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </div>
 
 
-
-*Connect with me* <br>
+<br>*Connect with me*<br>
 
 <div style="display: inline_block">
  
