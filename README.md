@@ -22,7 +22,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
-<br>*Development Stats*<br>
+<br>***Development Stats***<br>
 
  <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
@@ -31,7 +31,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </a>
 </div>
 
-<br>*Connect with me*<br>
+<br>***Connect with me***<br>
 
 <div style="display: inline_block">
  
