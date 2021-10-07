@@ -10,16 +10,21 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 <div style="display: inline_block">
  
-<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"> 
+<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+</a>
 
-<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
+</a>
+
 </div>
 
 <br>
 
 ## Development Stats
 
- <div style="display: inline_block">
+ <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
      
