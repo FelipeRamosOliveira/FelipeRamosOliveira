@@ -17,6 +17,14 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 <a href="https://opencollective.com/SuperTinyIcons/organization/0/website"> 
  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
 </a>
+ 
+ <a href="https://opencollective.com/SuperTinyIcons/organization/0/website"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
+</a>
+ 
+ <a href="https://opencollective.com/SuperTinyIcons/organization/0/website"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
+</a>
 
 </div>
 
