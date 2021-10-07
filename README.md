@@ -4,26 +4,6 @@
 
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-*Connect with me* <br>
-
-<div style="display: inline_block">
- 
-<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
-</a>
-
-<a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
-</a>
- 
- <a href="https://twitter.com/fp_oliv"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
-</a>
- 
- <a href="https://www.instagram.com/fp.oliv/"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
-</a>
-</div>
 
 ## Development Stats
 
@@ -54,3 +34,23 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
+*Connect with me* <br>
+
+<div style="display: inline_block">
+ 
+<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
+<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+</a>
+
+<a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
+</a>
+ 
+ <a href="https://twitter.com/fp_oliv"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
+</a>
+ 
+ <a href="https://www.instagram.com/fp.oliv/"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
+</a>
+</div>
