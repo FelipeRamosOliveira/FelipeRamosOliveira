@@ -10,6 +10,9 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 <a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg"></a>
 
+<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="125" title="StackOverflow" ></a>
+
+
 <br>
 
 ## Development Stats
