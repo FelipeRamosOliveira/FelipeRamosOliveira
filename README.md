@@ -28,8 +28,6 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 </div>
 
-<br>
-
 *Languages and Tools* 
   
   <div style="display: inline_block"><br>
