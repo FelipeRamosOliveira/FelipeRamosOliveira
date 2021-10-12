@@ -12,7 +12,9 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   
   <img align="center" alt="Felipe-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   
-  <img align="center" alt="Felipe-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  
+   <img align="center" alt="Felipe-Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
   
    <img align="center" alt="Vs-Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
