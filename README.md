@@ -38,7 +38,8 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   
-  <img align="markdow" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">  
+  <img align="markdow" alt="Markdow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
+  
 </div>
 
 
