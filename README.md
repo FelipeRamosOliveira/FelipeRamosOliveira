@@ -6,6 +6,9 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 ```python 
 Class Progammer
+  
+  def __init__(self,stacks):
+    self.stacks=stacks
 ```
 
 <br>***Languages and Tools***<br>
