@@ -54,7 +54,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </a>
 </div>
 
-_**Connect with me**_<br>
+<br>_**Connect with me**_<br>
 
 <div style="display: inline_block">
  
