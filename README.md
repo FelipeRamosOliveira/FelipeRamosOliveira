@@ -23,7 +23,7 @@ _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_ <br>
 </a>
 </div>
 
-I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
+<br> I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
 <br>**_Development Stats_**<br>
 
