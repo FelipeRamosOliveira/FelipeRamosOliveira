@@ -46,7 +46,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
  <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=4c70aa&icon_color=5c5c5c&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=ef6128"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=ef6128&icon_color=5c5c5c&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=ef6128"/>
 </a>
 </div>
 
