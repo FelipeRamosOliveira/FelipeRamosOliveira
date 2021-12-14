@@ -1,4 +1,4 @@
-## Hi, I'm Felipe ! :wave:
+<span style="color:blue">some ## Hi, I'm Felipe ! :wave: </span>
 
 _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
