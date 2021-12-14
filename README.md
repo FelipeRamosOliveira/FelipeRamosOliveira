@@ -1,3 +1,10 @@
+
+_Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
+
+## Hi, I'm Felipe ! :wave:
+
+
+
 _Connect with me_<br>
 
 <div style="display: inline_block">
@@ -18,11 +25,6 @@ _Connect with me_<br>
  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
 </a>
 </div>
-
-
-## Hi, I'm Felipe ! :wave:
-
-_Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
 <br> I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
