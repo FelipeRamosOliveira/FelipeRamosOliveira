@@ -14,24 +14,6 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </a>
 </div>
 
-### _Work Experience_
-
-##### Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present ) <br>
-- Designing machine learning systems.
-- Developing machine learning apps according to client requirements.
-- Developing software, modeling, simulation, testing, and code quality assurance.
-- Developing analytical tools and programs.
-
-##### Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
-- Analyzing and organizing raw data.
-- Building data systems and pipelines.
-- Building algorithms and prototypes.
-- Developing analytical tools and programs.
- 
-##### Graduate Researcher ([UFRJ](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
-- Conducting desktop research using books and journal articles.
-- Building algorithms based on NLP and machine learning solutions.
-
 ### _Languages and Tools_
 
   <div style="display: inline_block">
@@ -69,6 +51,26 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   
 </div>
+
+### _Work Experience_
+
+##### Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present ) <br>
+- Designing machine learning systems.
+- Developing machine learning apps according to client requirements.
+- Developing software, modeling, simulation, testing, and code quality assurance.
+- Developing analytical tools and programs.
+
+##### Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
+- Analyzing and organizing raw data.
+- Building data systems and pipelines.
+- Building algorithms and prototypes.
+- Developing analytical tools and programs.
+ 
+##### Graduate Researcher ([UFRJ](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
+- Conducting desktop research using books and journal articles.
+- Building algorithms based on NLP and machine learning solutions.
+
+
 
 <br>_**Connect with me**_<br>
 
