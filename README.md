@@ -45,7 +45,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   
 </div>
 
-<br>**_Development Stats_**<br><br>
+<br>**_Development Stats_**<br>
 
  <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
