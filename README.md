@@ -50,7 +50,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </a>
 </div>
 
-<br>**_Work Experience_**<br>
+### _Work Experience_
 
 ##### Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present ) <br>
 - Analyzing user needs and design machine learning solutions.<br>
