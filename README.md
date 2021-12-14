@@ -19,7 +19,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 ##### Graduate Researcher ([Ufrj](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
 - Conducting desktop research using books and journal articles.
-- Building algorithms based on statistical modeling procedures , natural language processing and machine learning solutions.
+- Building algorithms based on statistical modeling procedures ,NLP and machine learning solutions.
 
 
 <br>**_Languages and Tools_**<br>
