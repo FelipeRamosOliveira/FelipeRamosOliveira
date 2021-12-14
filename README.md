@@ -6,10 +6,10 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 <br>**_Work Experience_**<br>
 
-> Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present )
-- Analyzing user needs and design machine learning solutions.
-- Coding high-performance programs using different frameworks.
-- Performing statistical analysis and fine-tuning using test results. <
+- Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present )
+> Analyzing user needs and design machine learning solutions.
+> Coding high-performance programs using different frameworks.
+> Performing statistical analysis and fine-tuning using test results. <
 
 
 <br>**_Languages and Tools_**<br>
