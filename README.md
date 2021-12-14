@@ -1,8 +1,7 @@
 ## Hi, I'm Felipe ! :wave:
 
-_Machine learning engineer at [Kunumi](https://www.kunumi.com/)_ <br>
-
-<br>**_Connect with me_**<br>
+_Machine learning engineer at [Kunumi](https://www.kunumi.com/)_ 
+_Connect with me_<br>
 
 <div style="display: inline_block">
  
