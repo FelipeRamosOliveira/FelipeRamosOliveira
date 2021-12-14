@@ -1,4 +1,4 @@
-## Hi, I'm Felipe ! :wave:
+ ## Hi, I'm Felipe ! :wave:
 
 _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
@@ -46,9 +46,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
  <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
-     
- <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=swift"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c"/>
 </a>
 </div>
 
