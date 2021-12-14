@@ -12,6 +12,13 @@ Responsibilities:
 - Coding high-performance programs using different frameworks.<br>
 - Performing statistical analysis and fine-tuning using test results.<br>
 
+##### Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
+Responsibilities:
+- Analyzing and organizing raw data.
+- Building data systems and pipelines.
+- Building algorithms and prototypes.
+- Developing analytical tools and programs.
+
 
 <br>**_Languages and Tools_**<br>
 
