@@ -24,15 +24,6 @@ _Connect with me_<br>
 
 <br> I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-<br>**_Development Stats_**<br>
-
- <div style="display: inline_block"<br>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
-     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
-</a>
-</div>
-
 
 <br>**_Languages and Tools_**<br>
 
@@ -70,4 +61,13 @@ _Connect with me_<br>
   
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   
+</div>
+
+<br>**_Development Stats_**<br>
+
+ <div style="display: inline_block"<br>
+  <a href="https://github.com/FelipeRamosOliveira">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&show_icons=true&theme=graywhiteinclude_all_commits=true&count_private=true"/>
+     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRamosOliveira&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
 </div>
