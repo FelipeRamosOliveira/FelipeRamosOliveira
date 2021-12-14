@@ -4,7 +4,7 @@ _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-## **_Languages and Tools_**
+### _Languages and Tools_
 
   <div style="display: inline_block">
   
