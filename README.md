@@ -17,7 +17,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 - Building algorithms and prototypes.
 - Developing analytical tools and programs.
 
-##### Researcher ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
+##### Graduate Researcher ([Ufrj](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
 - Conducting desktop research using books and journal articles.
 - Building algorithms based on statistical modeling procedures , natural language processing and machine learning solutions.
 
