@@ -52,6 +52,28 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </div>
 
 
+### _Connect with me_
+
+<div style="display: inline_block">
+ 
+<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
+<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+</a>
+
+<a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
+</a>
+ 
+ <a href="https://twitter.com/fp_oliv"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
+</a>
+ 
+ <a href="https://www.instagram.com/fp.oliv/"> 
+ <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
+</a>
+</div>
+
+
 
 ### _Work Experience_
 
@@ -73,23 +95,4 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 
 
-<br>_**Connect with me**_<br>
 
-<div style="display: inline_block">
- 
-<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
-</a>
-
-<a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
-</a>
- 
- <a href="https://twitter.com/fp_oliv"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
-</a>
- 
- <a href="https://www.instagram.com/fp.oliv/"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
-</a>
-</div>
