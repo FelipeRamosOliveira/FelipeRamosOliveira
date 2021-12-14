@@ -2,11 +2,7 @@
 
 _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
-My name is Felipe Oliveira and I'm from Brazil. I'm a PhD student in computer systems, machine learning researcher and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python, Matlab and JavaScript.
-
-I have a degree in civil engineering, but while doing my masters (in structural engineering), I became completely fascinated with nature-inspired algorithms and machine learning, so I decided to change careers. I currently work as a Machine Learning Engineer Currently and my PhD thesis project is an NLP-based hate speech detection bot for Twitter.
-
-
+My name is Felipe Oliveira and I'm from Brazil. I'm a PhD student in computer systems, machine learning researcher and software developer with experience in designing, coding and testing complex systems. I currently work as a Machine Learning Engineer at Kunumi Ltd, where I am the Python resident expert. I'm also highly proficient in Matlab and JavaScript.
 
 <br>**_Languages and Tools_**<br>
 
