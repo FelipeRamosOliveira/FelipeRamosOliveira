@@ -4,16 +4,6 @@ _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-
-
-<br>**_Development Stats_**<br>
-
- <div style="display: inline_block"<br>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c"/>
-</a>
-</div>
-
 ### _Languages and Tools_
 
   <div style="display: inline_block">
@@ -51,6 +41,17 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   
 </div>
+
+
+<br>**_Development Stats_**<br>
+
+ <div style="display: inline_block"<br>
+  <a href="https://github.com/FelipeRamosOliveira">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c"/>
+</a>
+</div>
+
+
 
 ### _Work Experience_
 
