@@ -1,10 +1,10 @@
-<span style="color:blue">some ## Hi, I'm Felipe ! :wave: </span>
+ ## Hi, I'm Felipe ! :wave:
 
 _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-<br>**_Languages and Tools_**<br>
+<br> <span style="color:red"> **_Languages and Tools_** </span> <br>
 
   <div style="display: inline_block">
   
