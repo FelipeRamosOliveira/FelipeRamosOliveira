@@ -7,12 +7,9 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 <br>**_Work Experience_**<br>
 
 > KUNUMI | 2021 - PRESENT
-> Analyzing user needs and design machine learning
-> solutions.
-> Coding high-performance programs using different
-> frameworks.
-> Performing statistical analysis and fine-tuning using test
-> results.
+Analyzing user needs and design machine learning solutions.
+Coding high-performance programs using different frameworks.
+Performing statistical analysis and fine-tuning using test results.
 
 
 <br>**_Languages and Tools_**<br>
