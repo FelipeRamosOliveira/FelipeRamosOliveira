@@ -7,7 +7,7 @@ _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
 
-<br>**_Languages and Tools_**<br><br>
+<br>**_Languages and Tools_**<br>
 
   <div style="display: inline_block">
   
@@ -45,7 +45,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
   
 </div>
 
-<br>**_Development Stats_**<br>
+<br>**_Development Stats_**<br><br>
 
  <div style="display: inline_block"<br>
   <a href="https://github.com/FelipeRamosOliveira">
