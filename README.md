@@ -4,7 +4,7 @@ _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
 I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in decision making. I'm a huge tech enthusiast, experienced in data engineering, cloud services, artificial intelligence (AI), natural language processing (NLP) and nature-inspired algorithms.
 
-#### _Languages and Tools_
+<br>**_Languages and Tools_**<br>
 
   <div style="display: inline_block">
   
@@ -75,23 +75,7 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 
 
 
-### _Work Experience_
 
-##### Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present ) <br>
-- Designing machine learning systems.
-- Developing machine learning apps according to client requirements.
-- Developing software, modeling, simulation, testing, and code quality assurance.
-- Developing analytical tools and programs.
-
-##### Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
-- Analyzing and organizing raw data.
-- Building data systems and pipelines.
-- Building algorithms and prototypes.
-- Developing analytical tools and programs.
- 
-##### Graduate Researcher ([UFRJ](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
-- Conducting desktop research using books and journal articles.
-- Building algorithms based on NLP and machine learning solutions.
 
 
 
