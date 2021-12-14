@@ -2,7 +2,7 @@
 
 _Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
 
-My name is Felipe Oliveira and I'm from Brazil. I'm a PhD student in computer systems, machine learning researcher and software developer with experience in designing, coding and testing complex systems. I currently work as a Machine Learning Engineer at Kunumi Ltd, where I am the Python resident expert. I'm also highly proficient in Matlab and JavaScript.
+My name is Felipe Oliveira and I'm from Brazil. I'm a PhD student in computer systems, machine learning researcher and software developer with experience in designing, coding and testing complex systems. I currently work as a Machine Learning Engineer at Kunumi, where I'm the Python resident expert. 
 
 <br>**_Languages and Tools_**<br>
 
