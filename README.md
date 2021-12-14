@@ -56,9 +56,14 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 - Designing machine learning systems.
 - Developing machine learning apps according to client requirements.
 - Developing software, modeling, simulation, testing, and code quality assurance.
-- Developing analytical tools and programs
+- Developing analytical tools and programs.
 
 ##### _Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 )_ <br>
+- Analyzing and organizing raw data.
+- Building data systems and pipelines.
+- Building algorithms and prototypes.
+- Developing analytical tools and programs.
+- 
 ##### Graduate Researcher ([UFRJ](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
 
 <br>_**Connect with me**_<br>
