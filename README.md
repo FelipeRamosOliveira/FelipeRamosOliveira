@@ -51,7 +51,11 @@ I'm a ML engineer, PhD student in computer systems (UFRJ), and researcher in dec
 </div>
 
 ### _Work Experience_
+
 ##### Machine Learning Eginner ([Kunumi](https://www.kunumi.com/) | 2021 - Present ) <br>
+- Designing machine learning systems.
+- Developing machine learning apps according to client requirements.
+
 ##### Data Eginner ([Stone](https://www.stone.com.br/) | 2020 - 2021 ) <br>
 ##### Graduate Researcher ([UFRJ](http://www.coc.ufrj.br/en/) | 2018 - 2020 ) <br>
 
