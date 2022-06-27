@@ -1,6 +1,6 @@
  ## _Hi, I'm Felipe !_ :wave:
 
-_Machine learning engineer at [Kunumi](https://www.kunumi.com/)_<br>
+_Machine learning engineer at [ThoughtWorks](https://www.thoughtworks.com/)_<br>
 
 I'm PhD student in computational systems, machine learning engineer and software developer with experience in designing, coding and testing complex systems. I'm highly proficient in Python, Node.js and Matlab.I currently live in Rio de Janeiro, Brazil.
 
