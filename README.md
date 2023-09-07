@@ -2,7 +2,7 @@
 
 _Machine learning engineer at [ThoughtWorks](https://www.thoughtworks.com/)_<br>
 
-IPhD student in computational systems, machine learning engineer and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
+PhD student in computational systems, machine learning engineer and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
 
 <br>**_Languages and Tools_**<br>
 
