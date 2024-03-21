@@ -1,8 +1,8 @@
  ## _Hi, I'm Felipe !_ :wave:
 
-_Machine learning engineer at [ThoughtWorks](https://www.thoughtworks.com/)_<br>
+_Senior Machine learning engineer at [@Zallpy](https://zallpy.com/en)_<br>
 
-PhD student in computational systems, machine learning engineer and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
+PhD student in computational systems, senior machine learning engineer and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
 
 <br>**_Languages and Tools_**<br>
 
