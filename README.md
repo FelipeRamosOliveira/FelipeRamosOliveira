@@ -50,11 +50,9 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 
 <br>**_Development Stats_**<br>
 
- <div style="display: inline_block"><br>
-  <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c&cache_seconds=1800"/>
+<a href="https://github.com/FelipeRamosOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
-</div>
 
 <br>**_Connect with me_**<br>
 
