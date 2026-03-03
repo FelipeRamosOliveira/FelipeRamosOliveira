@@ -47,17 +47,6 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
   
 </div>
 
-
-<br>**_Development Stats_**<br>
-
-<a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
-</a>
-
-<a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&layout=compact&hide_border=true&cache_seconds=86400"/>
-</a>
-
 <br>**_Connect with me_**<br>
 
 <div style="display: inline_block">
