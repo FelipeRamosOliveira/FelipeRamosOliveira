@@ -1,8 +1,8 @@
- ## _Hi, I'm Felipe !_ :wave:
+## _Hi, I'm Felipe !_ :wave:
 
-_Senior Machine learning engineer at [@Zallpy](https://zallpy.com/en)_<br>
+_AI/ML Consultant at [@DBC Company](https://www.dbccompany.com.br) · Working with [@Globo](https://www.globo.com)_<br>
 
-PhD student in computational systems, senior machine learning engineer and software developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
+PhD in Computational Systems, AI/ML Consultant and Software Developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
 
 <br>**_Languages and Tools_**<br>
 
@@ -14,7 +14,7 @@ PhD student in computational systems, senior machine learning engineer and softw
   
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   
- <img align="center" alt="NodesJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+ <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
  
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
@@ -36,7 +36,7 @@ PhD student in computational systems, senior machine learning engineer and softw
   
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
-   <img align="center" alt="Kubernets" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   
    <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  
@@ -50,9 +50,9 @@ PhD student in computational systems, senior machine learning engineer and softw
 
 <br>**_Development Stats_**<br>
 
- <div style="display: inline_block"<br>
+ <div style="display: inline_block"><br>
   <a href="https://github.com/FelipeRamosOliveira">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRamosOliveira&theme=github_dark&title_color=f58025&icon_color=f58025&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&text_color=5c5c5c"/>
 </a>
 </div>
 
@@ -61,21 +61,18 @@ PhD student in computational systems, senior machine learning engineer and softw
 <div style="display: inline_block">
  
 <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+<img align="center" alt="Felipe-LinkedIn" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
 </a>
 
 <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
+ <img align="center" alt="Felipe-StackOverflow" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
 </a>
  
  <a href="https://twitter.com/fp_oliv"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
+ <img align="center" alt="Felipe-Twitter" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
 </a>
  
  <a href="https://www.instagram.com/fp.oliv/"> 
- <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
+ <img align="center" alt="Felipe-Instagram" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
 </a>
 </div>
-
-
-
