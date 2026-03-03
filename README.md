@@ -1,6 +1,6 @@
 ## _Hi, I'm Felipe !_ :wave:
 
-_AI/ML Consultant at [@DBC Company](https://www.dbccompany.com.br) · Working with [@Globo](https://www.globo.com)_<br>
+_Staff AI Engineer at [@OLX](https://www.olx.com.br)_<br>
 
 PhD in Computational Systems, AI/ML Consultant and Software Developer with experience in designing, coding and testing complex systems. Highly proficient in Python and Node.js.
 
@@ -29,6 +29,8 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"> 
   
   <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+ 
+  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
  
    <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   
@@ -64,10 +66,6 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 
 <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
  <img align="center" alt="Felipe-StackOverflow" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
-</a>
- 
- <a href="https://twitter.com/fp_oliv"> 
- <img align="center" alt="Felipe-Twitter" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg">
 </a>
  
  <a href="https://www.instagram.com/fp.oliv/"> 
