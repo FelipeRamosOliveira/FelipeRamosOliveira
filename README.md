@@ -23,21 +23,13 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 <img alt="MongoDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
 <img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
 <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">  
-
-  <img align="center" alt="GitLab" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  
-  
-  <img align="center" alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
- 
-  <img align="center" alt="AWS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
- 
-   <img align="center" alt="Azure" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  
-  <img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- 
-   <img align="center" alt="Kubernetes" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  
-   <img align="center" alt="SQLite" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+<img align="center" alt="GitLab" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+<img align="center" alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+<img align="center" alt="AWS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<img align="center" alt="Azure" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+<img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Kubernetes" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img align="center" alt="SQLite" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
  
   
 </div>
