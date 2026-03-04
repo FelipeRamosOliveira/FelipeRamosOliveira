@@ -6,7 +6,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 
 ---
 
-### AI / ML Stack
+<br>**AI / ML Stack**<br>
 
 <div style="display: inline_block">
 
