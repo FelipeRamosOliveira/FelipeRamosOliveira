@@ -42,6 +42,8 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="Bash" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash">
 <img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
 <img alt="Prometheus" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus">
+<img alt="HuggingFace" height="45" width="55" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face">
+<img alt="Kafka" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka">
 </div>
 
 ---
