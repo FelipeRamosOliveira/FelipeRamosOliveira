@@ -37,7 +37,13 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="Plotly" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" title="Plotly">
 <img alt="Anaconda" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda">
 <img alt="R" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R">
-
+<img alt="Terraform" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform">
+<img alt="Redis" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis">
+<img alt="Elasticsearch" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch">
+<img alt="Grafana" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana">
+<img alt="Bash" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash">
+<img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
+<img alt="Prometheus" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus">
 </div>
 
 ---
