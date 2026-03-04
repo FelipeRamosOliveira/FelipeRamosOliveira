@@ -51,18 +51,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 ### Connect with me
 
 <div style="display: inline_block">
-
-<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
-  <img align="center" alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn">
-</a>
-<a href="https://github.com/felipervf">
-  <img align="center" alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub">
-</a>
-<a href="https://stackoverflow.com/users/10391938/felipe-oliveira">
-  <img align="center" alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow">
-</a>
-<a href="https://www.instagram.com/fp.oliv/">
-  <img align="center" alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram">
-</a>
-
+  <div style="display: inline_block">
+<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"><img align="center" alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"></a> <a href="https://github.com/felipervf"><img align="center" alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub"></a> <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"><img align="center" alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow"></a> <a href="https://www.instagram.com/fp.oliv/"><img align="center" alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"></a>
+</div>
 </div>
