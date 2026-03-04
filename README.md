@@ -53,19 +53,16 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <div style="display: inline_block">
 
 <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
-  <img alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn">
+  <img align="center" alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn">
 </a>
-&nbsp;
 <a href="https://github.com/felipervf">
-  <img alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub">
+  <img align="center" alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub">
 </a>
-&nbsp;
 <a href="https://stackoverflow.com/users/10391938/felipe-oliveira">
-  <img alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow">
+  <img align="center" alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow">
 </a>
-&nbsp;
 <a href="https://www.instagram.com/fp.oliv/">
-  <img alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram">
+  <img align="center" alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram">
 </a>
 
 </div>
