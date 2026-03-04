@@ -30,6 +30,13 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="MongoDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
 <img alt="GitLab" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" title="GitLab">
 <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+<img alt="HuggingFace" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" title="Hugging Face">
+<img alt="FastAPI" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI">
+<img alt="MLflow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mlflow/mlflow-original.svg" title="MLflow">
+<img alt="Airflow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow">
+<img alt="Plotly" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" title="Plotly">
+<img alt="Anaconda" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda">
+<img alt="R" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R">
 
 </div>
 
