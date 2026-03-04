@@ -6,7 +6,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 
 ---
 
-### 🧠 AI / ML Stack
+### AI / ML Stack
 
 <div style="display: inline_block">
 
@@ -32,6 +32,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
 
 </div>
+
 ---
 
 ### 🔗 Connect with me
