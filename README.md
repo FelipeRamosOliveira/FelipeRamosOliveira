@@ -22,12 +22,8 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 <img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
 <img alt="MongoDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
 <img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
-<img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+<img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">  
+
   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   
   <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
