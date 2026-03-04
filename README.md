@@ -24,25 +24,20 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 <img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
 <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">  
 
-  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="GitLab" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   
-  <img align="center" alt="VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   
-  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"> 
-  
-  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"> 
-  
-  <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
  
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="AWS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
  
-   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+   <img align="center" alt="Azure" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
-   <img align="center" alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+   <img align="center" alt="Kubernetes" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   
-   <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+   <img align="center" alt="SQLite" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
  
   
 </div>
@@ -52,14 +47,14 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 <div style="display: inline_block">
  
 <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"> 
-<img align="center" alt="Felipe-LinkedIn" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+<img align="center" alt="Felipe-LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
 </a>
 
 <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"> 
- <img align="center" alt="Felipe-StackOverflow" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
+ <img align="center" alt="Felipe-StackOverflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg">
 </a>
  
  <a href="https://www.instagram.com/fp.oliv/"> 
- <img align="center" alt="Felipe-Instagram" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
+ <img align="center" alt="Felipe-Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg">
 </a>
 </div>
