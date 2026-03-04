@@ -6,7 +6,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 
 ---
 
-<br>**AI / ML Stack**<br>
+## AI / ML Stack
 
 <div style="display: inline_block">
 
@@ -37,7 +37,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 
 ### 🔗 Connect with me
 
-<div align="center">
+<div style="display: inline_block">
 
 <a href="https://www.linkedin.com/in/felipe-ramos-oliveira/">
   <img alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn">
