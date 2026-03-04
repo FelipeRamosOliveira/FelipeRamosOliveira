@@ -7,16 +7,24 @@ PhD in Computational Systems, AI/ML Consultant and Software Developer with exper
 <br>**_Languages and Tools_**<br>
 
   <div style="display: inline_block">
+
+<img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
+<img alt="Jupyter" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook">
+<img alt="NumPy" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy">
+<img alt="Pandas" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas">
+<img alt="Matplotlib" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib">
+<img alt="Scikit-learn" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn">
+<img alt="TensorFlow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow">
+<img alt="PyTorch" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch">
+<img alt="Keras" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras">
+<img alt="OpenCV" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV">
+<img alt="Apache Spark" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark">
+<img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+<img alt="MongoDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
+<img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
+<img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-   <img align="center" alt="Matlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-  
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  
- <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
- 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
