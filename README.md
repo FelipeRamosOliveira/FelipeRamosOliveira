@@ -8,7 +8,7 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 
 ### 🧠 AI / ML Stack
 
-<div align="center">
+<div style="display: inline_block">
 
 <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
 <img alt="Jupyter" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook">
@@ -20,13 +20,6 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="Keras" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras">
 <img alt="Matplotlib" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib">
 <img alt="OpenCV" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV">
-
-</div>
-
-### ⚙️ Infrastructure & DevOps
-
-<div align="center">
-
 <img alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
 <img alt="AWS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS">
 <img alt="Azure" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure">
@@ -39,7 +32,6 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
 
 </div>
-
 ---
 
 ### 🔗 Connect with me
