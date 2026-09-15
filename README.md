@@ -11,39 +11,23 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 <div style="display: inline_block">
 
 <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-<img alt="Jupyter" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook">
-<img alt="NumPy" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="NumPy">
-<img alt="Pandas" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas">
-<img alt="Scikit-learn" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn">
-<img alt="TensorFlow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow">
 <img alt="PyTorch" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch">
-<img alt="Keras" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" title="Keras">
-<img alt="Matplotlib" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib">
-<img alt="OpenCV" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="OpenCV">
-<img alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
+<img alt="TensorFlow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow">
+<img alt="Scikit-learn" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn">
+<img alt="Pandas" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas">
+<img alt="HuggingFace" height="45" width="55" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face">
+<img alt="FastAPI" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI">
+<img alt="Apache Spark" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark">
+<img alt="Airflow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow">
+<img alt="Kafka" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka">
+<img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
+<img alt="Redis" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis">
 <img alt="AWS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS">
-<img alt="Azure" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure">
+<img alt="GCP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform">
 <img alt="Docker" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
 <img alt="Kubernetes" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
-<img alt="Apache Spark" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" title="Apache Spark">
-<img alt="PostgreSQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL">
-<img alt="MongoDB" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB">
-<img alt="GitLab" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" title="GitLab">
-<img alt="Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
-<img alt="FastAPI" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI">
-<img alt="Airflow" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow">
-<img alt="Plotly" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" title="Plotly">
-<img alt="Anaconda" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda">
-<img alt="R" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R">
 <img alt="Terraform" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform">
-<img alt="Redis" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis">
-<img alt="Elasticsearch" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch">
 <img alt="Grafana" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" title="Grafana">
-<img alt="Bash" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash">
-<img alt="Linux" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux">
-<img alt="Prometheus" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus">
-<img alt="HuggingFace" height="45" width="55" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face">
-<img alt="Kafka" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka">
 </div>
 
 ---
@@ -51,7 +35,5 @@ PhD in Computational Systems — AI/ML Engineer and Software Developer with expe
 ### Connect with me
 
 <div style="display: inline_block">
-  <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"><img align="center" alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"></a> <a href="https://github.com/felipervf"><img align="center" alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub"></a> <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"><img align="center" alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow"></a> <a href="https://www.instagram.com/fp.oliv/"><img align="center" alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"></a>
-</div>
+<a href="https://www.linkedin.com/in/felipe-ramos-oliveira/"><img align="center" alt="LinkedIn" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" title="LinkedIn"></a> <a href="https://github.com/FelipeRamosOliveira"><img align="center" alt="GitHub" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" title="GitHub"></a> <a href="https://stackoverflow.com/users/10391938/felipe-oliveira"><img align="center" alt="Stack Overflow" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" title="Stack Overflow"></a> <a href="https://www.instagram.com/fp.oliv/"><img align="center" alt="Instagram" height="45" width="55" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" title="Instagram"></a>
 </div>
